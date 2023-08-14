@@ -14,7 +14,7 @@ Los protocolos de red llevan a cabo las siguientes tareas:
 - Cifrado de los datos transmitidos (encriptación).
 
 
-Tipos de Clasificaciones
+Tipos de Clasificmulticastaciones
 
 - Una forma de agruparlos es como se encuentran cotidianamente los siete niveles del modelo OSI en tres grupos que tienen cierta semejanza en sus funciones y/o servicios: Aplicación, Presentación, Sesión, Transporte, Red, Enlace y Físico
 
@@ -26,8 +26,52 @@ Este punto de visto analiza el grado de ajuste que brinda un protocolo respecto 
 
 -Protocolos orientados al caracter y orientados al bit
 
+Existen una gran variedad de protocolos de red los cuales se diferencian en función de:
+cantidad de participantes o nodos que hay en la comunicación:unicast multicast, broadcast
+Forma en la que se transmiten los datos:  (simplex (unidireccional), semi-dúplex (ambas direcciones, pero no de forma simultánea) o dúplex completo (envío de datos en ambas direcciones a la vez)
+
 Protocólos principales
 
+Capa de aplicación
+    Estos son algunos protocolos organizados segun el modelo OSI
+    HyperText Transfer Protocol (HTTP)
+    File Transfer Protocol (FTP)
+    Simple Mail Transfer Protocol (SMTP)
+    Secure Shell (SSH)
+    Simple Network Management Protocol (SNMP)
+    Domain Name System (DNS)
+
+Capa de presentacion
+    Apple Filing Protocol (AFP)
+    Network File System (NFS)
+
+Capa de Sesion
+     Network Basic Input/Output System (NetBIOS)
+     Internet Storage Name Service (ISNS)
+     File Transfer Protocol (FTP)
+     Session Annoucement Protocol (SAP)
+
+Capa de transporte de datos
+     User Datagram Protocol (UDP)
+     Transmission Control Protocol (TCP)
+
+Capa de red
+     Internet Protocol (IP)
+     Routing Information Protocol (RIP)
+     Interior Gateway Protocol (IGP)
+     Internetwork Packet Exchange / Sequence Packet Exchange (IPX / SPX)
+
+Capa de enlace de datos
+     Ethernet
+     Fiber Distributed Data Interface (FDDI)
+     Address Resolution Protocol (ARP)
+     Point to Point Protocol (PPP)
+
+Capa Fisica
+    Digital Subscriber Line (DLS)
+    Integrated Services Digital Network (ISDN)
+    Bluetooth
+    Universal Serial Bus (USB)
 
 
 Referencias
@@ -35,3 +79,5 @@ Referencias
 - ¿Qué es un protocolo de red? (2022, mayo 3). Autmix.com. https://autmix.com/blog/que-es-protocolo-red
 
 - del modelo OSI, C. U. de E. C. U. o. V. C., Realidad, L., De un protocolo, es Q. P. E. la C. E. dos E. se E. M., De protocolos aislados, es P. E. R. Q. se S. H. no, De ellos, S. Q. al H. M. de A., De protocolos, se S. E. Q. se E. H. de U. P., de un nivel OSI, la C. A. M., & de ello X., S. E. (s/f). Clasificación de protocolos. Mhe.es. Recuperado el 14 de agosto de 2023, de https://mhe.es/cf/ciclos_informatica/844819974X/archivos/unidad4_recurso1.pdf
+
+Limones, E. (2021, septiembre 17). Protocolo de red: Qué es, tipos y características. Openwebinars.net. https://openwebinars.net/blog/protocolo-de-red-que-es-tipos-y-caracteristicas/
