@@ -1,0 +1,34 @@
+Formacion en redes de computadores con posiilidad de certificacio cisco, Oracle
+
+
+
+Certificación CCNA (Cisco Certified Network Associate):
+
+Requisitos: Conocimientos básicos de redes y computadoras.
+Proceso: Realizar un curso de preparación CCNA o estudiar por cuenta propia, seguido por el examen CCNA. El examen consta de varios módulos que cubren conceptos de redes.
+Costo: Varía según la ubicación y el proveedor de la certificación.
+Fechas: Las fechas de los exámenes pueden ser programadas a través de centros de pruebas autorizados por Cisco.
+Certificación CompTIA Network+:
+
+Requisitos: No se requieren certificaciones previas, pero tener un conocimiento básico de informática y redes es útil.
+Proceso: Estudiar el contenido del examen Network+ y luego realizar el examen. El examen abarca una amplia gama de temas relacionados con redes.
+Costo: Varía según la ubicación y el proveedor de la certificación.
+Fechas: Las fechas de los exámenes pueden programarse a través de centros de pruebas autorizados por CompTIA.
+Certificación Juniper Networks Certified Associate - Junos (JNCIA-Junos):
+
+Requisitos: No se requieren certificaciones previas, pero tener conocimientos básicos sobre redes es útil.
+Proceso: Estudiar los conceptos básicos de la plataforma Junos y luego realizar el examen JNCIA-Junos.
+Costo: Dependerá del lugar y del proveedor.
+Fechas: Las fechas de los exámenes pueden ser programadas a través de centros de pruebas autorizados por Juniper Networks.
+Certificación Microsoft Certified: Azure Fundamentals:
+
+Requisitos: Conocimientos básicos sobre la nube y las redes es útil.
+Proceso: Estudiar los conceptos fundamentales de Azure y luego realizar el examen AZ-900.
+Costo: Variará según la ubicación y el proveedor.
+Fechas: Puedes programar el examen a través de centros de pruebas autorizados por Microsoft.
+Certificación Certified Information Systems Security Professional (CISSP): Aunque no se centra exclusivamente en redes, cubre aspectos de seguridad en redes.
+
+Requisitos: Experiencia laboral en seguridad de la información.
+Proceso: Estudiar y prepararse para el examen CISSP, que cubre una amplia gama de temas de seguridad.
+Costo: Dependerá del lugar y del proveedor.
+Fechas: Las fechas de los exámenes pueden programarse a través de centros de pruebas autorizados.
