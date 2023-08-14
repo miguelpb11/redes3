@@ -14,11 +14,17 @@ Los protocolos de red llevan a cabo las siguientes tareas:
 - Cifrado de los datos transmitidos (encriptación).
 
 
-
 Tipos de Clasificaciones
-Una forma de agruparlos es como se encuentran cotidianamente los siete niveles del modelo OSI
-en tres grupos que tienen cierta semejanza en sus funciones y/o servicios
 
+- Una forma de agruparlos es como se encuentran cotidianamente los siete niveles del modelo OSI en tres grupos que tienen cierta semejanza en sus funciones y/o servicios: Aplicación, Presentación, Sesión, Transporte, Red, Enlace y Físico
+
+- Protocolos (Redes) Orientados y no orientados a la conexión
+Este tipo de división es en base al método que emplean para hacer llegar la información desde el ETD origen al ETD destino.
+
+-Protocolos Estructurados y no Estructurados: 
+Este punto de visto analiza el grado de ajuste que brinda un protocolo respecto a lo propuesto por el modelo OSI
+
+-Protocolos orientados al caracter y orientados al bit
 
 Protocólos principales
 
@@ -28,3 +34,4 @@ Referencias
 
 - ¿Qué es un protocolo de red? (2022, mayo 3). Autmix.com. https://autmix.com/blog/que-es-protocolo-red
 
+- del modelo OSI, C. U. de E. C. U. o. V. C., Realidad, L., De un protocolo, es Q. P. E. la C. E. dos E. se E. M., De protocolos aislados, es P. E. R. Q. se S. H. no, De ellos, S. Q. al H. M. de A., De protocolos, se S. E. Q. se E. H. de U. P., de un nivel OSI, la C. A. M., & de ello X., S. E. (s/f). Clasificación de protocolos. Mhe.es. Recuperado el 14 de agosto de 2023, de https://mhe.es/cf/ciclos_informatica/844819974X/archivos/unidad4_recurso1.pdf
