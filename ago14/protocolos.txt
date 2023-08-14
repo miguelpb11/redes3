@@ -14,7 +14,7 @@ Los protocolos de red llevan a cabo las siguientes tareas:
 - Cifrado de los datos transmitidos (encriptación).
 
 
-Tipos de Clasificmulticastaciones
+Tipos de Clasificaciones
 
 - Una forma de agruparlos es como se encuentran cotidianamente los siete niveles del modelo OSI en tres grupos que tienen cierta semejanza en sus funciones y/o servicios: Aplicación, Presentación, Sesión, Transporte, Red, Enlace y Físico
 
