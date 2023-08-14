@@ -1,1 +1,30 @@
+Definicion
+
+Protocólo se refiere a una serie de estándares o normas a seguir debido a una situcion o suceso.
+Los protocolos de redes son asi mismo son sistemas de reglas que permiten el buen manejo de la red, ofreciendo seguridad, estabilidad , etc.
+
+Un protocolo de red es un estandar de comunicaciones,Contiene las reglas necesarias y la información sobre cómo las computadoras intercambian datos entre sí.
+
+Los protocolos de red llevan a cabo las siguientes tareas:
+
+- Establecer una conexión confiable entre los equipos implicados en la comunicación.
+- Dirigir los paquetes de datos enviados al destinatario correcto.
+- Transmisión sin errores de los paquetes de información.
+- Organización y fusión de los paquetes de datos entrantes.
+- Cifrado de los datos transmitidos (encriptación).
+
+
+
+Tipos de Clasificaciones
+Una forma de agruparlos es como se encuentran cotidianamente los siete niveles del modelo OSI
+en tres grupos que tienen cierta semejanza en sus funciones y/o servicios
+
+
+Protocólos principales
+
+
+
+Referencias
+
+- ¿Qué es un protocolo de red? (2022, mayo 3). Autmix.com. https://autmix.com/blog/que-es-protocolo-red
 
