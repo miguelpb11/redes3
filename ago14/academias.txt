@@ -4,30 +4,51 @@ Formacion en redes de computadores con posiilidad de certificacio cisco, Oracle
 
 Certificación CCNA (Cisco Certified Network Associate):
 
-Requisitos: Conocimientos básicos de redes y computadoras.
+Requisitos: Requiere un examen. No hay requisitos previos, aunque se recomienda tener al menos un año de experiencia trabajando con soluciones de Cisco.
 Proceso: Realizar un curso de preparación CCNA o estudiar por cuenta propia, seguido por el examen CCNA. El examen consta de varios módulos que cubren conceptos de redes.
-Costo: Varía según la ubicación y el proveedor de la certificación.
-Fechas: Las fechas de los exámenes pueden ser programadas a través de centros de pruebas autorizados por Cisco.
+Costo: $6,078.71 (300 USD)
+Se examina Acceso a la red, conectividad IP, servicios IP, seguridad, automatización y programabilidad.
+
+
 Certificación CompTIA Network+:
 
-Requisitos: No se requieren certificaciones previas, pero tener un conocimiento básico de informática y redes es útil.
+Requisitos: No se requieren certificaciones previas, pero tener un conocimiento básico de informática y redes es útil.Requiere un examen. se recomiendan entre nueve y 12 meses de experiencia en redes o la certificación CompTIA A+.
 Proceso: Estudiar el contenido del examen Network+ y luego realizar el examen. El examen abarca una amplia gama de temas relacionados con redes.
-Costo: Varía según la ubicación y el proveedor de la certificación.
+Costo: $7,699.70 (338 USD)
 Fechas: Las fechas de los exámenes pueden programarse a través de centros de pruebas autorizados por CompTIA.
-Certificación Juniper Networks Certified Associate - Junos (JNCIA-Junos):
+Se examina: Conceptos esenciales de redes, tecnologías de cableado, dispositivos y almacenamiento, gestión de redes, seguridad, y metodología y herramientas de resolución de problemas.
 
+
+
+Certificación Juniper Networks Certified Associate - Junos (JNCIA-Junos):
 Requisitos: No se requieren certificaciones previas, pero tener conocimientos básicos sobre redes es útil.
 Proceso: Estudiar los conceptos básicos de la plataforma Junos y luego realizar el examen JNCIA-Junos.
-Costo: Dependerá del lugar y del proveedor.
-Fechas: Las fechas de los exámenes pueden ser programadas a través de centros de pruebas autorizados por Juniper Networks.
+Costo:  $4,052.48 (200 USD)
+Se examina, Fundamentos del sistema operativo Junos—arquitectura de software y procesamiento de tráfico en tránsito, fundamentos de configuración, política de enrutamiento y filtros de cortafuegos.
+
+
+ Profesional certificado de SolarWinds
+ Los productos de SolarWinds se utilizan de forma destacada en determinados sectores, como el gubernamental y el contable.
+ Requisitos: Requiere un examen. No hay requisitos previos.
+ Costo: $4,052.48 (200 USD)
+Se examina: Diagnóstico, análisis del rendimiento de la base de datos, configuración de la red, monitorización del rendimiento, arquitectura de la red.
+
+
 Certificación Microsoft Certified: Azure Fundamentals:
 
 Requisitos: Conocimientos básicos sobre la nube y las redes es útil.
 Proceso: Estudiar los conceptos fundamentales de Azure y luego realizar el examen AZ-900.
 Costo: Variará según la ubicación y el proveedor.
-Fechas: Puedes programar el examen a través de centros de pruebas autorizados por Microsoft.
-Certificación Certified Information Systems Security Professional (CISSP): Aunque no se centra exclusivamente en redes, cubre aspectos de seguridad en redes.
 
+
+
+Asociado de Movilidad certificado por Aruba (ACMA)
+Costo: $4,660.35 (230 USD)
+Requisitos: Requiere un examen. No hay requisitos previos, aunque se anima a los candidatos a tomar los cursos de Fundamentos de Movilidad de Aruba.
+Se examina, Funcionamiento esencial de Aruba WLAN, utilizando la arquitectura del sistema operativo V8.
+
+
+Certificación Certified Information Systems Security Professional (CISSP): Aunque no se centra exclusivamente en redes, cubre aspectos de seguridad en redes.
 Requisitos: Experiencia laboral en seguridad de la información.
 Proceso: Estudiar y prepararse para el examen CISSP, que cubre una amplia gama de temas de seguridad.
 Costo: Dependerá del lugar y del proveedor.
